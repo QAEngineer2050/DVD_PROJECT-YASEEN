@@ -1,6 +1,7 @@
 # DVD_PROJECT-YASEEN
 DVD_RENTAL
 Project Overview
+
 This SQL project involves the exploration and analysis of a relational database containing various tables related to a video rental service.
 The project aims to provide insights, answer specific questions, and generate reports based on the data available in these tables. 
 Below is an overview of the tables and the SQL queries included in the project:
