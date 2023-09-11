@@ -6,9 +6,9 @@ This SQL project involves the exploration and analysis of a relational database 
 The project aims to provide insights, answer specific questions, and generate reports based on the data available in these tables. 
 Below is an overview of the tables and the SQL queries included in the project:
 
-Tables querys 
-
 SQL_query_Group1
+----------------
+
 
 Query 1 - Retrieve all records from the actor table.
 
@@ -41,6 +41,8 @@ Query 14 - Retrieve all records from the staff table.
 Query 15 - Retrieve all records from the store table.
 
 SQL_query_Group2
+-----------------
+
 
 Query 1 - Get Actor Names
 
@@ -63,6 +65,8 @@ Query 9 - Get Films with Rental Rate Comparison
 Query 10 - Get Customer Payments with Names
 
 SQL_query_Group3
+-----------------
+
 
 Query 1 - Retrieve customer information and payment amount using a right join
 
@@ -77,6 +81,8 @@ Query 5 - Retrieve customer information and rental counts with ordering
 Query 6 - Retrieve actors with the first name 'Helen'
 
 SQL_query_Group4
+----------------
+
 
 Query 1 - Count the number of films in each category
 
@@ -107,6 +113,8 @@ Query 13 - Retrieve rental information for a specific rental ID (e.g., rental_id
 Query 14 - Calculate the minimum and maximum rental dates
 
 SQL_query_Group5
+----------------
+
 
 Query 1 - Retrieve rentals with missing payments and calculate rental period
 
